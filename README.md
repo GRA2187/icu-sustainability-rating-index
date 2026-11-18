@@ -11,8 +11,6 @@
 <p align="center">
   <a href="https://gra2187.github.io/icu-sustainability-rating-index/"><strong>Open the dashboard</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="ICU-Sustainability-Index-Dashboard-FAQ.pdf">Read the FAQ (PDF)</a>
-  &nbsp;&middot;&nbsp;
   <a href="LICENSE">License</a>
 </p>
 
@@ -72,7 +70,7 @@ Score = 100 × (sum of points × rating value) ÷ (sum of points), over applicab
 | Bronze | 40 to 59 | Nothing extra |
 | Getting started | Under 40 | Nothing extra |
 
-Every tier also needs three prerequisites: named physician and nurse sustainability leads, at least 3 core KPIs measured for 12 months, and changes reviewed by quality and infection prevention. A KPI counts as improved when its latest rate is at least 10% below the unit's baseline. The FAQ explains every formula with a worked example.
+Every tier also needs three prerequisites: named physician and nurse sustainability leads, at least 3 core KPIs measured for 12 months, and changes reviewed by quality and infection prevention. A KPI counts as improved when its latest rate is at least 10% below the unit's baseline.
 
 ## Use it offline
 
@@ -83,7 +81,6 @@ Download `index.html` and open it in a web browser. Everything the dashboard nee
 | File | What it is |
 | --- | --- |
 | `index.html` | The dashboard, in one self-contained file |
-| `ICU-Sustainability-Index-Dashboard-FAQ.pdf` | Answers to common questions, with the formulas behind every number |
 | `LICENSE` | The PolyForm Noncommercial License 1.0.0 and the required notice |
 | `logo.svg` | The logo shown on this page |
 | `README.md` | This page |
