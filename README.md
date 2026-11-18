@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-GITHUB-USERNAME.github.io/icu-sustainability-rating-index/"><strong>Open the dashboard</strong></a>
+  <a href="https://gra2187.github.io/icu-sustainability-rating-index/"><strong>Open the dashboard</strong></a>
   &nbsp;&middot;&nbsp;
   <a href="ICU-Sustainability-Index-Dashboard-FAQ.pdf">Read the FAQ (PDF)</a>
   &nbsp;&middot;&nbsp;
